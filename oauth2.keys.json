@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "protean-gms-uat",
+  "private_key_id": "eb21a714fb4573e8611b60279595f6b3eb3d53b2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCzEYSlGAtykiun\nauq39P6AitvZvutkilZjfsfsK8dkXGSeE5mbezOZz595IYGiHUZFcXxrm3WpSdCX\nUt2ILWziuX3WXG5/P9nvvkFBWF28AuhYTixHa8pLT3Ym2LqqKwnepB2L8kURs7Xk\naO71ZMw3NmayXAwzreH2JhnYTms9aIvC9hjJ+tfk2XhQLlOHVpVBn6klqsI9nsxu\n+kYcNlEG5VIm+9ccGn8xqk6vH3PZwWXF8rszmcV/OP+uvZOvor/h09ZM8G3gRMOF\nxPsvZ6+6x/PfHfWAowMiM/VBUWLM28YTJiW53QvABEdwcJ6modlrkkBTAiT2Ik72\nxWfQIJCDAgMBAAECggEADBw2/IDuY6nPbZVSGTpmn92qoqsO+Y/oto/gO3B2hER1\nwlvdYchPCniIXRI1ol4Y3rqfFhpZNo3sbBKv/46uGrAKx52DesDTUpIExCn5JOCM\nqbQxU580x8UW+E39/PyUjUvlR6dzblzZN02CPT+IF0/RjP+jctDjdqWUmxSRAht1\ndqu3EtKoZ9dcHpOC3eZWOlQKTAIgPTm7alGGxudVe5p81nPv5HC2LK+kQLGKUovi\nTCSg7D19yYy74cu5oDKPCh7awQuBmXU7l9WCya+zAKB+MU4J5GnQDHYYWsAMTPnN\n0Ba/1YBHGjjBdiSq7wDSjK8I+ZoE3UEf7biPwh6s4QKBgQDo5G8eeJyg0pqB6CBb\ngH70gTyXzPIZtBeiAUtV3KXWs4nTsGZUZYAKvDW/sfQyEm+Z29ojSnKOlPq/6fK2\nc1dEWCbZ9xnofLzqyTi+XJlzgE9wMWy56BYTk+StaDSkMrtiUj6696L8heueUgft\npMHreCzHTPA22O8weJ8bVjA/cwKBgQDE1e8WCMTOI+wXjWZcZmAsuKG8JihcnCDK\nhbP1P52f5VEAp92V6eqT2GJbPZIgAfHVPysA0gmDX8mbxYIcDBn+Dqqc/gpl0dlF\nwj+XCCWbr3ZOjUDDr1kHox4mW1MGDHjUwnoqEMjINk3RO4kCThK2y9UPW2daIYVM\nvl9fKZgGsQKBgAhqOJmhQgeNlIedG44y1mN/R/E0Nos3NqNj6JTxpAxd8Fz1wrzJ\n7hZ1Nnv2shwdDmtAxmEAD6OXPngwu9Rb1othpAW8J/N+jlTtcF9weRrzR+uF3afZ\n+vI6JckeOsi0DJFA54NZ70mwjRLrY93yVg9sCDIrVYKl0/6sXRNfyd6BAoGBAImH\nrRDpOZGK+egO7Ul8YpB8xMzwoFzs3eCDgRTHyTuyf2GE6MdZdISuuTJlF9dzZGSK\nSWK+XtVDNVu4qcstDXA9ESq2Oc+gyz35lnLRx207MN97xJe1yfATIfrM7nqYdki6\nRZ9ksNVrU/3wqi9JG7xLOWgMhm8sYrYXgg28wzNRAoGBAJQCcrqtc6D42Z52gQl0\nUNxl4I0nFjPPLApylWo2/F0HNiIwVxYqiG18mtMl0QkAEk0k2WE6lBaW8Oae8n6e\naj7illBruh01ziY/Am16upSaT3YfDwvWKCZaIG7yZHrt0dTpXZx9CmB6h589Rps3\ns4JbrQffebOpo9ntIttGtz4B\n-----END PRIVATE KEY-----\n",
+  "client_email": "uat-storage@protean-gms-uat.iam.gserviceaccount.com",
+  "client_id": "108337106223499744995",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/uat-storage%40protean-gms-uat.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
